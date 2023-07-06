@@ -1,0 +1,45 @@
+.vouchers__content {
+	display: flex;
+	justify-content: space-between;
+	column-gap: 300px;
+	margin-right: 200px;
+	margin-left: 200px;
+	align-items: center;
+}
+
+.vouchers__text {
+	width: 55%;
+}
+
+.vouchers__title {
+	color: #000;
+	font-size: 48px;
+	font-weight: 900;
+	line-height: 1.5;
+	letter-spacing: 2.88px;
+	margin-bottom: 40px;
+}
+
+.vouchers__desc {
+	color: #7c7c7c;
+	font-size: 24px;
+	font-weight: 500;
+	letter-spacing: -0.96px;
+	line-height: calc(35 / 24);
+	margin-bottom: 65px;
+	width: 90%;
+}
+
+.voucher__donwload {
+	display: flex;
+	column-gap: 20px;
+	transition: all 2s ease-in-out;
+}
+
+.voucher__donwload img{
+	transition: all .1s ease-in;
+}
+
+.voucher__donwload a:hover img{
+	opacity: .8;
+}

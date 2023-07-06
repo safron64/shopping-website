@@ -1,0 +1,9 @@
+.favourite {
+	margin-bottom: 200px;
+}
+.favourite__cards {
+	display: flex;
+	justify-content: space-between;
+	column-gap: 50px;
+	margin-top: 95px;
+}
