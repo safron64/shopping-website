@@ -1,6 +1,5 @@
 # Shopping Website
 
-![Shopping Website](https://raw.githubusercontent.com/safron64/shopping-website/main/src/assets/images/preview.png)
 
 ## О проекте
 
